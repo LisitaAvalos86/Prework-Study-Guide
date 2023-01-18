@@ -5,7 +5,15 @@ This website was created to help other bootcamp students that may feel overwhelm
 
 ## Installation
 
-The best part of this program is the ease of acces. Please follow __ to visit the site!
+N/A
+
+## Usage
+
+Each section contains notes about the topics covered, like Git, HTML, CSS, and Javascript. When the DevTools is opened, you can see Javascript running in real-time, giving you a topic to study first.
+
+## Credits
+
+N/A
 
 ## License
 
